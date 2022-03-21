@@ -1,2 +1,2 @@
 DRF
-- branch protection check v2
+- branch protection check v3
